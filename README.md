@@ -15,8 +15,3 @@ The model was deployed using Streamlit with a user-friendly interface for real-t
 5. Scikit-Learn
 6. Pickle
 7. Streamlit
-
-### Steps to run the file:
-
-1. Import the Fuel_Efficiency_ML file in your VS Code / Google Colab / Jupyter Notebook
-2. Change the path of dataset in line pd.read_csv()
